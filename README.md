@@ -1,6 +1,8 @@
+<img src="http://www.gft.com/dam/jcr:172f6059-a8b4-4438-9b92-26a5effa38d6/GFT_logo_big.png" width="130" height="24">
+
 # GFT Workshop Devops & BigData
 
-![](images/logo-gft.png)
+<img src="https://github.com/gft-technical-practices/2017-workshop-dev-bigdata/blob/master/logo-gft.PNG?raw=true" width="600">
 
 
 O evento será realizado onsite e transmitido simultaneamente através do Skype for Business para aqueles colaboradores que não puderem atender presencialmente. As sessões serão gravadas e poderão ser acessadas a qualquer tempo por qualquer colaborador da GFT. 
