@@ -24,8 +24,8 @@ O evento será realizado onsite e transmitido simultaneamente através do Skype 
 
 ## Endereço:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.889277356125!2d-46.85086438460188!3d-23.500497284713056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf02238545552b%3A0xbb6abf5690c5cae0!2sGFT+Brasil!5e0!3m2!1spt-BR!2sbr!4v1483978589938" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+Alameda Rio Negro, 585 - Alphaville Industrial, Barueri - SP - 
+[Visualize pelo Google Maps]( https://www.google.com.br/maps/place/GFT+Brasil/@-23.5004973,-46.8508644,17z/data=!3m1!4b1!4m5!3m4!1s0x94cf02238545552b:0xbb6abf5690c5cae0!8m2!3d-23.5004973!4d-46.8486757)
 
 ## Informações Úteis:
 
