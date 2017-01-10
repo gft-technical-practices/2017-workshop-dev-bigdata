@@ -28,7 +28,7 @@ O evento será realizado onsite e transmitido simultaneamente através do Skype 
 
 ## Data:
 
-11 de Janeiro de 2017 (sábado)
+11 de Fevereiro de 2017 (sábado) - 08:00 ás 18:00
 
 ## Endereço:
 
