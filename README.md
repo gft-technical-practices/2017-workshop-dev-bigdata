@@ -113,22 +113,22 @@ Alameda Rio Negro, 585 - Alphaville Industrial, Barueri - SP -
          <td align="center">
             <b>Xamarin com DevOps</b>
 			<br/>Palestrante: Diego Cardoso
-			<br/>Modedador: Antonio Moreno
+			<br/>Moderador: Antonio Moreno
 		 </td>
 		<td align="center">
             <b>Escolha de Ferramentas - projetos Bigdata</b>
 			<br/>Palestrante: Fernando Forenza
-			<br/>Modedador: Andrew Albuquerque
+			<br/>Moderador: Andrew Albuquerque
 		 </td>
 		<td align="center">
             <b>Cassandra com NoSQL</b>
 			<br/>Palestrante: Bruno Tinoco
-			<br/>Modedador: Leonel Gayard
+			<br/>Moderador: Leonel Gayard
 		 </td>
  		<td align="center">
             <b>Continuous Delivery</b>
 			<br/>Palestrante: Leonardo Morales
-			<br/>Modedador: Thiago Tota
+			<br/>Moderador: Thiago Tota
 		 </td>
       </tr>   
 	   <tr>
@@ -139,22 +139,22 @@ Alameda Rio Negro, 585 - Alphaville Industrial, Barueri - SP -
          <td align="center">
             <b>Aplicando DevOps com CHEF</b>
 			<br/>Palestrante: Pedro Castelo Branco
-			<br/>Modedador: Luis Trochmann
+			<br/>Moderador: Luis Trochmann
 		 </td>
          <td align="center">
             <b>Modelagem BigData vs BI-Relacional</b>
 			<br/>Palestrante: Fernando Forenza
-			<br/>Modedador: João Carlos Junior
+			<br/>Moderador: João Carlos Junior
 		 </td>
          <td align="center">
             <b>Ecosistema ElasticSearch</b>
 			<br/>Palestrante: Joel Santos
-			<br/>Modedador: Thiago Tota
+			<br/>Moderador: Thiago Tota
 		 </td>
          <td align="center">
             <b>Modelo de maturidade em Continuous Delivery</b>
 			<br/>Palestrante: Thiago Cruz
-			<br/>Modedador: Helio Corrêa
+			<br/>Moderador: Helio Corrêa
 		 </td>
       </tr>      
 	  <tr>
