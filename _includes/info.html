@@ -1,0 +1,59 @@
+ <!-- Info Section -->
+    <section class="text-center" id="info">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2><i class="fa fa-4 fa-info-circle" aria-hidden="true"></i> Informações</h2>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+				<div class="container">
+					<div class="row">
+					   <div class="footer-col col-md-12">
+						<h3><i class="fa fa-4 fa-globe" aria-hidden="true"></i> Mapa</h3>
+						<div class="map-responsive">
+							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.889277356122!2d-46.85086438502332!3d-23.500497284713163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cf02238545552b%3A0xbb6abf5690c5cae0!2sGFT+Brasil!5e0!3m2!1spt-BR!2sbr!4v1484227291070" frameborder="0" style="border:0" width="600" height="450" allowfullscreen></iframe>
+						</div>
+						</div>
+					</div>
+					<br/>
+					<div class="row">
+						<div class="footer-col col-md-3">
+							<h3><i class="fa fa-calendar" aria-hidden="true"></i></h3>
+							<h3>Data e Horário</h3>
+							<p>
+							  11 de Fevereiro de 2017 (sábado)  
+							<p>
+							<p>
+							  08:00 ás 18:00    
+							</p>
+						</div>
+						<div class="footer-col col-md-3">
+							<h3><i class="fa fa-map-marker" aria-hidden="true"></i></h3>
+							<h3>{{ site.footer.location }}</h3>
+							<p>
+								{% for adress in site.address %}
+									{{ adress.line }} <br>
+								{% endfor %}
+							</p>
+						</div>
+						<div class="footer-col col-md-3">
+							<h3><i class="fa fa-car" aria-hidden="true"></i></h3>
+							<h3>Estacionamento</h3>
+							<p>
+							  Pago por conta do participante (diária, contada a partir da quarta hora – R$35,00)
+							<p>
+						</div>
+						<div class="footer-col col-md-3">
+							<h3><i class="fa fa-cutlery" aria-hidden="true"></i></h3>
+							<h3>Alimentação</h3>
+							<p>
+							  Será oferecido um lanche no horário do almoço
+							<p>
+						</div>
+					</div>
+				</div>
+			</div>
+        </div>
+    </section>

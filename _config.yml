@@ -1,1 +1,64 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Technology Workshop
+email: your-email@domain.com
+url: https://example.github.io
+description: "GFT Workshop Devops & BigData"
+skills: "GFT Workshop DevOps & BigData"
+meta_author: LastName FirstName
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 333366 #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 224080 #FD6E8A
+  secondary-dark: 1c99b1 #A2122F
+  primarylink: 1c99b1
+
+# Footer settings
+footer:
+  copyright: GFT
+  location: Local
+  social: Redes Sociais
+  credits: Créditos
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: home
+    url: http://www.gft.com/br/pt/index/
+  - title: facebook
+    url: http://www.facebook.com/gft.br
+  - title: linkedin
+    url: http://www.linkedin.com/company-beta/163986?pathWildcard=163986
+  - title: twitter
+    url: http://twitter.com/gft_br
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Alameda Rio Negro, 585
+  - line: Bloco B - 10º Andar
+  - line: Alphaville Industrial
+  - line: Barueri - SP
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -4,41 +4,22 @@
 
 <img src="https://github.com/gft-technical-practices/2017-workshop-dev-bigdata/blob/master/logo-gft.PNG?raw=true" width="100%">
 
-O evento será realizado onsite e transmitido simultaneamente através do Skype for Business para aqueles colaboradores que não puderem atender presencialmente. As sessões serão gravadas e poderão ser acessadas a qualquer tempo por qualquer colaborador da GFT. 
+## O Evento
 
-## Menu
+DevOps, ALM, SLDC, Continuous Integration, Continous Delivery, NoSQL e BigData & Analytics são conceitos amplamente utilizados por desenvolvedores e profissionais de TI, e facilmente confudidos pelos mesmos. Com o intuito de promover o entendimento de tais conceitos, a GFT promoverá o Technology Workshop, um dia inteiro de palestras, demonstrações, práticas, sessões de perguntas e respostas e apresentações de casos reais de projetos executados pelos nossos times.
 
-* [Tema Principal](#tema-Principal)
-* [Inscrição](#formulario-Inscricao)
-* [Data](#data)
-* [Local](#endereco)
-* [Informações Úteis](#informacoes-uteis)
-* [Agenda](#agenda)
-
-## Tema Principal
-*	DevOps, ALM, SDLC
-*	Integração Contínua (Continuous Integration)
-*	Entrega Contínua (Continuous Delivery)
-*	Bancos de Dados Não-Relacionais (NoSQL)
-*	BigData & Analytics
+Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experiência profissional nos temas em questão. O evento acontecerá na nossa filial de Alphaville, mas também será transmitido simultaneamente através do Skype for Business para aqueles colaboradores que não puderem atender presencialmente. As sessões ainda serão gravadas e poderão ser acessadas a qualquer tempo por qualquer colaborador da GFT. 
 
 ## Fomulário de Inscrição:
 
-[Link para incrição (em construção):](http://www.gft.com/br/pt/index/)
-
-## Data:
-
-11 de Fevereiro de 2017 (sábado) - 08:00 ás 18:00
-
-## Endereço:
-
-Alameda Rio Negro, 585 - Alphaville Industrial, Barueri - SP - 
-[Visualize pelo Google Maps]( https://www.google.com.br/maps/place/GFT+Brasil/@-23.5004973,-46.8508644,17z/data=!3m1!4b1!4m5!3m4!1s0x94cf02238545552b:0xbb6abf5690c5cae0!8m2!3d-23.5004973!4d-46.8486757)
+[Link para incrição (em construção):](http://bit.ly/2ikXj9w)
 
 ## Informações Úteis:
 
-- Estacionamento
-- Refeição
+- Data: 11 de Fevereiro de 2017 (sábado) - 08:00 ás 18:00
+- Local: Alameda Rio Negro, 585 - Alphaville Industrial, Barueri - SP - [Visualize pelo Google Maps](http://bit.ly/2jcsAiW)
+- Estacionamento: Pago por conta do participante (diária, contada a partir da quarta hora – R$35,00)
+- Alimentação: Será oferecido um lanche no horário do almoço
 
 ## Agenda:
 
