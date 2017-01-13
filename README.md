@@ -12,7 +12,7 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
 
 ## Fomulário de Inscrição:
 
-[Link para incrição (em construção):](http://bit.ly/2ikXj9w)
+[Link para incrição:](http://bit.ly/2ikXj9w)
 
 ## Informações Úteis:
 
