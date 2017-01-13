@@ -27,10 +27,10 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
    <thead>
       <tr >
          <th>Sala / Horário</th>
-         <th>Espaço Descompressão</th>
-         <th>Sala Itália</th>
-         <th>Sala EUA</th>
-         <th>Sala Costa Rica</th>
+         <th>Sala 1</th>
+         <th>Sala 2</th>
+         <th>Sala 3</th>
+         <th>Sala 4</th>
       </tr>
    </thead>
    <tbody>      
