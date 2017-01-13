@@ -6,7 +6,7 @@
 
 ## O Evento
 
-DevOps, ALM, SLDC, Continuous Integration, Continous Delivery, NoSQL e BigData & Analytics são conceitos amplamente utilizados por desenvolvedores e profissionais de TI, e facilmente confudidos pelos mesmos. Com o intuito de promover o entendimento de tais conceitos, a GFT promoverá o Technology Workshop, um dia inteiro de palestras, demonstrações, práticas, sessões de perguntas e respostas e apresentações de casos reais de projetos executados pelos nossos times.
+DevOps, ALM, SLDC, Continuous Integration, Continous Delivery, NoSQL e BigData & Analytics são conceitos amplamente utilizados por desenvolvedores e profissionais de TI, e facilmente confundidos pelos mesmos. Com o intuito de promover o entendimento de tais conceitos, a GFT promoverá o Technology Workshop, um dia inteiro de palestras, demonstrações, práticas, sessões de perguntas e respostas e apresentações de casos reais de projetos executados pelos nossos times.
 
 Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experiência profissional nos temas em questão. O evento acontecerá na nossa filial de Alphaville, mas também será transmitido simultaneamente através do Skype for Business para aqueles colaboradores que não puderem atender presencialmente. As sessões ainda serão gravadas e poderão ser acessadas a qualquer tempo por qualquer colaborador da GFT. 
 
@@ -128,7 +128,7 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
 			<br/>Moderador: João Carlos Junior
 		 </td>
          <td align="center">
-            <b>Ecosistema ElasticSearch</b>
+            <b>Ecossistema ElasticSearch</b>
 			<br/>Palestrante: Joel Santos
 			<br/>Moderador: Thiago Tota
 		 </td>
