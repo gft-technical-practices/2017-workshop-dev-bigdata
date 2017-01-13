@@ -12,8 +12,6 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
 
 ## Fomulário de Inscrição:
 
-<img src="https://d30y9cdsu7xlg0.cloudfront.net/png/25603-200.png">(http://bit.ly/2ikXj9w)
-
 [Link para incrição](http://bit.ly/2ikXj9w)
 
 ## Informações Úteis:
