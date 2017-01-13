@@ -1,10 +1,10 @@
 # Site settings
 title: Technology Workshop
-email: your-email@domain.com
-url: https://example.github.io
+email: Technology.Latam@gft.com
+url: https://gft-technical-practices.github.io/2017-workshop-dev-bigdata/
 description: "GFT Workshop Devops & BigData"
 skills: "GFT Workshop DevOps & BigData"
-meta_author: LastName FirstName
+meta_author: Technology Latam
 
 # Google webmaster tools
 google_verify:
@@ -57,7 +57,7 @@ address:
   - line: Barueri - SP
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: Technology Workshop Staff
 
 # Build settings
 markdown: kramdown
