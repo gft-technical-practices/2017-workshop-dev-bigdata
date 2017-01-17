@@ -12,7 +12,9 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
 
 ## Fomulário de Inscrição:
 
-Clique [aqui](http://bit.ly/2ikXj9w) para fazer sua inscrição. Data Limite: 03/02/2017
+Clique [aqui](http://bit.ly/2ikXj9w) para fazer sua inscrição. 
+
+Data Limite: 03/02/2017
 
 ATENÇÃO: O número de vagas presenciais são limitadas. Ressaltamos que todos poderão assistir o conteúdo via SKYPE FOR BUSINESS ou posteriormente a gravação.
 
