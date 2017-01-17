@@ -92,7 +92,7 @@ Todo conteúdo será apresentado por nossos engenheiros e arquitetos com experi�
       <tr>
          <td align="center">13:30 às 15:00</td>
          <td align="center">
-            <b>Xamarin com DevOps</b>
+            <b>Xamarin e Mobile DevOps</b>
 			<br/>Palestrante: Diego Cardoso
 			<br/>Moderador: Antonio Moreno
 		 </td>
