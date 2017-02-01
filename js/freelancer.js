@@ -38,7 +38,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 //Countdown Parameters
 $(document).ready(function () {
-    var countTo = new Date('14:30:00 08/01/2015');
+    var countTo = new Date('00:00:01 12/02/2017');
     $('.countdown').countdown({
         until: countTo,
         format: 'dHMS'
