@@ -525,11 +525,5 @@ border-width: 0px;
 
 /* Style for countdown */
 .countdown {
-    height: 100px;[  
-}
-.countdown.is-countdown {
-    border: 0px solid #ccc;
-    background-color: transparent;
-    font-size: 30px;
-    padding: 20px 0;
+    height: 50px;[  
 }
