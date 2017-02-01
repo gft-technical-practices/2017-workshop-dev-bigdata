@@ -530,7 +530,7 @@ border-width: 0px;
     padding: 20px 0px;
 }
 
-.is-countdown {
+.countdown.is-countdown {
     border: 0px solid #ccc;
     background-color: transparent;
 }
