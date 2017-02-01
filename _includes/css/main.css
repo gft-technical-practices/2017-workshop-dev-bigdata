@@ -493,7 +493,7 @@ border-width: 0px;
         background-repeat: no-repeat;
 
 		/* Set a specific height */
-		height: 400px; 
+		height: 365px; 
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
@@ -534,4 +534,12 @@ border-width: 0px;
     border: 0px solid #ccc;
     background-color: transparent;
     background-image: url("img/alphabg.png");
+}
+
+@media(max-width:767px) {
+.countdown {
+    height: 70px;
+    font-size: 20px;
+    margin: 15px 0px;
+}	
 }
