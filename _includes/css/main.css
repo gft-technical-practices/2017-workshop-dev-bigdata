@@ -533,4 +533,5 @@ border-width: 0px;
 .countdown.is-countdown {
     border: 0px solid #ccc;
     background-color: transparent;
+    background-image: url("img/alphabg.png");
 }
