@@ -35,3 +35,12 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
+
+//Countdown Parameters
+$(document).ready(function () {
+    var countTo = new Date('14:30:00 08/01/2015');
+    $('.countdown').countdown({
+        until: countTo,
+        format: 'dHMS'
+    });
+});
