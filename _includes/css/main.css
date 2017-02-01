@@ -472,7 +472,7 @@ border-width: 0px;
 		background-image: url("img/headerworkshop.png");
 
 		/* Set a specific height */
-		height: 700px; 
+		height: 900px; 
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
@@ -493,7 +493,7 @@ border-width: 0px;
         background-repeat: no-repeat;
 
 		/* Set a specific height */
-		height: 325px; 
+		height: 400px; 
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
