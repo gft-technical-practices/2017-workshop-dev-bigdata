@@ -525,7 +525,7 @@ border-width: 0px;
 
 /* Style for countdown */
 .countdown {
-    height: 50px;[  
+    height: 100px;[  
 }
 .countdown.is-countdown {
     border: 0px solid #ccc;
