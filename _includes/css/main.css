@@ -521,3 +521,9 @@ border-width: 0px;
     width:100%;
     position:absolute;
 }
+
+
+/* Style for countdown */
+.countdown {
+    height: 50px;
+}
