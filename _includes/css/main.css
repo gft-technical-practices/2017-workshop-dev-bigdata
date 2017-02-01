@@ -472,7 +472,7 @@ border-width: 0px;
 		background-image: url("img/headerworkshop.png");
 
 		/* Set a specific height */
-		height: 900px; 
+		height: 800px; 
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
@@ -527,6 +527,7 @@ border-width: 0px;
 .countdown {
     height: 50px;
     font-size: 30px;
+    padding: 20px 0px;
 }
 
 .is-countdown {
