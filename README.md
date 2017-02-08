@@ -31,16 +31,16 @@ ATENÇÃO: O número de vagas presenciais são limitadas. Ressaltamos que todos 
    <thead>
       <tr >
          <th>Sala / Horário</th>
-         <th>Sala 1</th>
-         <th>Sala 2</th>
-         <th>Sala 3</th>
-         <th>Sala 4</th>
+         <th>Sala Itália</th>
+         <th>Espaço Descompressão</th>
+         <th>Sala Brasil</th>
+         <th>Sala México</th>
       </tr>
    </thead>
    <tbody>      
       <tr>
          <td align="center">8:00 às 08:30</td>
-         <td align="center" colspan="4">Coffee</td>         
+         <td align="center" colspan="4">Recepção</td>         
       </tr>            
       <tr>
          <td align="center">08:30 às 09:00</td>
@@ -81,7 +81,7 @@ ATENÇÃO: O número de vagas presenciais são limitadas. Ressaltamos que todos 
       </tr>  
       <tr>
          <td align="center">12:00 às 13:15</td>
-         <td align="center" colspan="4">Intervalo para Almoço</td>         
+         <td align="center" colspan="4">Intervalo para Lanche</td>         
       </tr>
       <tr>
          <td align="center" colspan="5"></td>   
